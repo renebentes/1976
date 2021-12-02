@@ -23,8 +23,9 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas | Descrição |
-| ----- | --------- |
+| Aulas                            | Descrição                   |
+| -------------------------------- | --------------------------- |
+| [aula-2-1](../../commit/9fc0b54) | Imersão: Modelagem de Dados |
 
 ## Autor
 
