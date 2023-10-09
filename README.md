@@ -16,6 +16,7 @@ Você pode encontrar os originais em:
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Azure Data Studio](https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+- [Visual Studio 2022 Preview](https://visualstudio.com/preview)
 
 ## Divisão do Código
 
