@@ -33,6 +33,6 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ## Licença
 
-Copyright (c) 2021 Rene Bentes Pinto
+Copyright (c) 2021 - 2023 Rene Bentes Pinto
 
-- Licenciado sob os termos da Licença [MIT](LICENSE)
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
