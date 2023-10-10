@@ -24,9 +24,10 @@ Há links específicos para cada commit de finalização de uma aula.
 
 ### Lista de Aulas
 
-| Aulas                            | Descrição                   |
-| -------------------------------- | --------------------------- |
-| [aula-2-1](../../commit/9fc0b54) | Imersão: Modelagem de Dados |
+| Aulas                            | Descrição                                    |
+| -------------------------------- | -------------------------------------------- |
+| [aula-2-1](../../commit/9fc0b54) | Imersão: Modelagem de Dados                  |
+| [aula-2-2](../../commit/3d1f98e) | Imersão: Introdução ao Entity Framework Core |
 
 ## Autor
 
